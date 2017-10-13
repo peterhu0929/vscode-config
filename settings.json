@@ -1,0 +1,9 @@
+{
+    "editor.fontSize": 22,
+    "workbench.colorTheme": "Material",
+    "typescript.referencesCodeLens.enabled": true,
+    "editor.formatOnSave": true,
+    "editor.wordWrap": "on",
+    "files.autoGuessEncoding": true,
+    "tslint.autoFixOnSave": true
+}
